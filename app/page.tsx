@@ -67,9 +67,9 @@ export default function Home() {
       <section id="works" className="bg-gray-800 py-16 text-center">
         <h2 className="text-4xl font-bold text-blue-400 mb-6">Nasze prace</h2>
         <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-6 px-6">
-          <img src="/work1.jpg" alt="Работа 1" className="rounded-lg shadow-lg aspect-square object-cover" />
-          <img src="/work2.jpg" alt="Работа 2" className="rounded-lg shadow-lg aspect-square object-cover" />
-          <img src="/work3.jpg" alt="Работа 3" className="rounded-lg shadow-lg aspect-square object-cover" />
+          {/*<img src="/work1.jpg" alt="Работа 1" className="rounded-lg shadow-lg aspect-square object-cover" />*/}
+          {/*<img src="/work2.jpg" alt="Работа 2" className="rounded-lg shadow-lg aspect-square object-cover" />*/}
+          {/*<img src="/work3.jpg" alt="Работа 3" className="rounded-lg shadow-lg aspect-square object-cover" />*/}
         </div>
       </section>
 
